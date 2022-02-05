@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Retrofit Java</string>
+    <string name="app_name">Retrofit</string>
+    <string name="yourchallenge">YourChallenge</string>
+    <string name="POSITION">POSITION</string>
 </resources>
